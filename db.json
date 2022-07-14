@@ -1,7 +1,7 @@
 {
-    "data": [
-        {
-            "id": 1,
+  "posts": [
+    {
+      "id": 1,
             "firstName": "Adam",
             "lastName": "Sneller",
             "email": "adam.sneller@gmail.com",
@@ -12,6 +12,9 @@
                 "catering": true,
                 "music": true
             }
-        }
-    ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
