@@ -1,13 +1,11 @@
 {
-  "id": "",
-  "firstName": "",
-  "lastName": "",
-  "email": "",
-  "message": "",
-  "category": "",
-  "pets": 1,
-  "extras": {
-    "catering": false,
-    "music": false
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
