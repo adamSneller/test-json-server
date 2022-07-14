@@ -2,10 +2,11 @@
     "data": [
         {
             "id": 1,
+            "firstName": "Adam",
+            "lastName": "Sneller",
+            "email": "adam.sneller@gmail.com",
+            "message": "test",
             "category": "animal welfare",
-            "title": "Frenz of bunz",
-            "description": "🐰 an frenz",
-            "location": "Zoom - stay safe",
             "pets": 1,
             "extras": {
                 "catering": true,
