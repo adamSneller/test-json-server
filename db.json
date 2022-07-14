@@ -1,7 +1,11 @@
 {
-"id": 0,
-  "firstName": "Adam",
-  "lastName": "Sneller",
-  "email": "adam@ms2.digital",
-  "category": "bananas"
+  "data": [
+    {
+    "id": 0,
+      "firstName": "Adam",
+      "lastName": "Sneller",
+      "email": "adam@ms2.digital",
+      "category": "bananas"
+    }
+  ]
 }
