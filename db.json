@@ -3,7 +3,7 @@
   "firstName": "Adam",
   "lastName": "Sneller",
   "email": "adam.sneller@gmail.com",
-  "category": "animal welfare",
+  "category": "bananas",
   "pets": 1,
   "extras": {
     "catering": true,
