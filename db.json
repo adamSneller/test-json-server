@@ -1,12 +1,10 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "firstName": "Adam",
-      "lastName": "Sneller",
-      "category": "bananas"
-    }
-  ],
+  "data": {
+    "id": 1,
+    "firstName": "Adam",
+    "lastName": "Sneller",
+    "category": "bananas"
+  },
   "profile": {
     "name": "typicode"
   }
