@@ -1,13 +1,17 @@
 {
-  "id": 0,
-  "firstName": "Adam",
-  "lastName": "Sneller",
-  "email": "adam.sneller@gmail.com",
-  "message": "test",
-  "category": "animal welfare",
-  "pets": 1,
-  "extras": {
-    "catering": true,
-    "music": true
+  "data": {
+    {
+      "id": 0,
+      "firstName": "Adam",
+      "lastName": "Sneller",
+      "email": "adam.sneller@gmail.com",
+      "message": "test",
+      "category": "animal welfare",
+      "pets": 1,
+      "extras": {
+        "catering": true,
+        "music": true
+      }
+    }
   }
 }
