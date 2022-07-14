@@ -1,1 +1,12 @@
-
+{
+  "firstName": "",
+  "lastName": "",
+  "email": "",
+  "message": "",
+  "category": "",
+  "pets": 1,
+  "extras": {
+    "catering": false,
+    "music": false
+  }
+}
